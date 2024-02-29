@@ -1,16 +1,16 @@
 {
   "PANELLADIKA AD REQUEST MS": "600000",
   
-  "alpha": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "ant1": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "ert1": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "ert2": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "ert3": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "ertnews": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "maktv": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "mega": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "open": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "sky": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "star": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8",
-  "vouli": "https://movieflixgr.vercel.app/APP_PROMO/newapp1_1.m3u8"
+  "alpha": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "ant1": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "ert1": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "ert2": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "ert3": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "ertnews": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "maktv": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "mega": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "open": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "sky": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "star": "https://storage.googleapis.com/greektv/newapp1_1.m3u8",
+  "vouli": "https://storage.googleapis.com/greektv/newapp1_1.m3u8"
 }
